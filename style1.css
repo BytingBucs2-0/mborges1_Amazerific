@@ -1,0 +1,35 @@
+body {
+	background: lightcyan;
+	width: 800px;
+	margin:auto;
+}
+
+h1 {
+	color:maroon;
+	text-align: center;
+	font-family:'Denk One', sans-serif;
+}
+
+p{
+	color:gray;
+	border:1px solid gray;
+	padding:10px;
+}
+
+/* PRobably delete above this*/
+
+body {
+	background:#f9e933;
+}
+
+header, main, footer {
+	min-width:855px;
+}
+
+header {
+	background:white;
+}
+
+footer {
+	background:white;
+}

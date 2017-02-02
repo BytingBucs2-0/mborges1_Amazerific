@@ -34,10 +34,13 @@ main {
 	float:left;
 	width:570px;
 }
-.lightbulb {
+
+/*
+.light{
 	float:right;
 	width:285px;
 }
+/**/
 
 .contact {
 	float:left;

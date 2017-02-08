@@ -1,6 +1,8 @@
 body {
 	background:#f9e933;
 	font-family: 'Droid Sans', sans-serif;
+	font-size:100%;
+	
 }
 
 header, main, footer {
@@ -10,6 +12,7 @@ header, main, footer {
 header.container, main.container, footer.container {
 	max-width:855px;
 	margin: auto;
+	padding-left:15%;
 }
 
 header {
